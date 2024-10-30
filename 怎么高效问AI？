@@ -1,0 +1,63 @@
+1.不用对AI有礼貌
+
+2.跟AI说对象是谁:...the audience is an expert/intended for seniors who have never used one before...
+
+3.将复杂的任务拆成几个小任务
+
+4.多用do 少用don't
+
+5.Explain to me like (as if) I'm 11 years old/a beginner...
+
+6.给AI小费:I'm going to tip $xxx for a better solution（好怪啊）
+
+7.给AI点例子看
+
+8.写点小标题：###Instruction###,###Question###...
+
+9.写上Your task is.../You MUST
+
+10.惩罚AI:You will be penalized...
+
+11.Answer a question given in a natural,human-like manner
+
+12.think step by step(对很强的模型没多大用)
+
+13.Ensure that your answer is unbiased and avoids relying on stereotypes(刻板印象).
+
+14.让AI问你问题，以获得更多信息:
+	From now on,ask me questions until you have enough information to create a personalized fitness routine.(但是我的4o有次数限制啊。。)
+
+
+15.想让AI教你并且考你一下的话:
+	Teach me  about xxx and include a test at the end,and let me know if my answers are correct after I respond,without providing the answers beforehand.
+
+16.给模型一个设定:If you were an expert economist,how would you...
+
+17.用点分隔符以达到强调效果，如''
+
+18.让关键词再prompt中出现多次
+
+19.运用思维链(Chain-of-thought):
+	Example: "Divide 10 by 2. First, take 10 and divide it by 2. The result is 5."Main Question: "Divide 30 by 6. First, take 30 and divide it by 6. The result is...?
+
+20.提出问题后使用引子提示AI接下来要干什么:Describe the principle behind Newton's First Law of Motion. Explanation:
+
+21.让AI写东西:
+	Write a detailed [essay/text/paragraph] for me on [topic] in detail by adding all the information necessary.
+
+22.让AI修改文章，并保持原有style：
+	Try to revise every paragraph sent by users. You should only improve the user’s grammar and vocabulary and make sure it sounds natural. You should maintain the original writing style, ensuring that a formal paragraph remains formal.
+
+23.我没看太懂，但是感觉我目前也用不到。原文：
+	When you have a complex coding prompt that may be in different files: "From now and on whenever you generate code that spans more than one file, generate a [programming language] script that can be run to automatically create the specified files or make changes to existing files to insert the generated code. [your question]."
+
+24.让AI续写：
+	I'm providing you with the beginning [song lyrics / story / paragraph / essay...]: [Insert lyrics / words / sentence]. Finish it based on the words provided. Keep the flow consistent.
+
+25.简介明了地说明你需要让AI做的事情的关键词、规则等：
+	Create a packing list for a beach vacation, including the following keywords "sunscreen," "swimsuit," and "beach towel" as essential items.
+
+26.提供一段文字以确定AI的写作风格：
+	Use the same language based on the provided paragraph[ / title / text / essay / answer].
+
+27.GPT目前似乎对“画”情有独钟，出现这个动词他就像想画东西
